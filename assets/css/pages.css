@@ -417,8 +417,8 @@ ul.thumbs > li img { box-shadow:0 0 4px rgba(0, 0, 0, 0.5); }
 
 /*CSS Generated from InDesign Styles*/
 
-body, #container-wrap { background:#ededed; }
-:-webkit-full-screen { background:#ededed; }
+body, #container-wrap { background:transparent; }
+:-webkit-full-screen { background:transparent; }
 #loadIndicator span:after { padding-left:1ex; content:'loading content...'; }
 .page-scale-wrap { width:600px; height:842px; background: #fff !important; }
 .paper-vertical { width:600px; height:100%; }
@@ -472,6 +472,22 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	-webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+#item2844 {
+	width:695px !important;
+	height:900px !important;
+	left:-44px !important;
+	top:-42px !important;
+	background:#003056;
+	border:solid 1px #000;
+}
+
+#item326 {
+	width:36px !important;
+	height:31px !important;
+	left:12px !important;
+	top:796px !important;
+}
+
 #item323 {
 	width:62px !important;
 	height:62px !important;
@@ -493,123 +509,138 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	background:#e3e3e3;
 }
 
-#item326 {
-	width:36px !important;
-	height:31px !important;
-	left:12px !important;
-	top:796px !important;
-}
-
-#item2833 {
+#item3210 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2810 {
+#item3186 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2787 {
+#item3163 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2764 {
+#item3140 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2741 {
+#item2736 {
+	width:40px !important;
+	height:169px !important;
+	left:570px !important;
+	top:379px !important;
+}
+
+#item3117 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2718 {
+#item3094 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2695 {
+#item3071 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2672 {
+#item3048 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2649 {
+#item2713 {
+	width:27px !important;
+	height:40px !important;
+	left:570px !important;
+	top:368px !important;
+}
+
+#item3025 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2626 {
+#item3002 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2603 {
+#item2978 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2580 {
+#item2955 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2557 {
+#item2932 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2534 {
+#item2909 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2511 {
+#item2886 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
 }
 
-#item2488 {
+#item2863 {
 	width:36px !important;
 	left:315px !important;
 	top:811px !important;
 	min-height:32px !important;
+}
+
+p.autoParaStyle1 {
+	font-family:"Myriad Pro",sans-serif;
+	font-size:18px;
+	line-height:21.6px;
+	color:#f9f9f9;
+	text-align:left;
 }
 
 p.page-heading {
